@@ -1,7 +1,11 @@
 # Secret Hitler Email Game
 
 A simple implementation of Secret Hitler that sends role assignments to players via email.
+
+
 ALL CREDIT TO THE OG: Secrethitler.com 
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
 ## Gmail Setup Instructions
 
 1. **Enable 2-Step Verification**:
